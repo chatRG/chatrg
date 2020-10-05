@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm chatRg</h1>
-- 💬 Ask me about **latest consumer tech**
+
+💬 Ask me about **latest consumer tech**
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
