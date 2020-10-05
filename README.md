@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chatRg</h1>
+<h1 align="center">Hi 👋, I'm chatRG</h1>
 
 💬 Ask me about **latest consumer tech**
 
