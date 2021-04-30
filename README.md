@@ -13,7 +13,11 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chatrg&show_icons=true" alt="chatrg" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chatrg&layout=compact&langs_count=6&theme=graywhite )
+
+<br/>
+
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=chatrg&show_icons=true&custom_title=Github%20Stats&theme=graywhite )
 
 
 <!-- in your header -->
