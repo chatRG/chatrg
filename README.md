@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chatRG</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="60px"/>, chatRG here!</h1> 
 
 💬 Ask me about **latest consumer tech**
 
