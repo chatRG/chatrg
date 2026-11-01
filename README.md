@@ -26,23 +26,3 @@ I build small, sharp tools where money meets code — price trackers, market das
 
 > [!TIP]
 > Ask me about **finance & tech**.
-
-## 📊 By the numbers
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatrg&theme=tokyonight" width="100%" alt="GitHub profile summary" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chatrg&theme=tokyonight" height="180" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chatrg&theme=tokyonight" height="180" alt="Languages by repo" />
-
-</div>
-
-## 🧩 Selected work
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[gold-price-extension](https://github.com/chatRG/gold-price-extension)** | Compares gold jewellery prices on Myntra, Ajio and Flipkart against live 24K rates | `TypeScript` |
-| **[inmarket](https://github.com/chatRG/inmarket)** | Market dashboard — [live demo](https://chatrg.github.io/inmarket) | `SCSS` |
-| **[WallApp](https://github.com/chatRG/WallApp)** | Random wallpapers that fit your phone's personality · ★9 | `Java` |
-| **[NoteNow](https://github.com/chatRG/NoteNow)** | Material Design notes app for Android · ★5 | `Java` |
