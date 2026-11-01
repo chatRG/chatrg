@@ -1,14 +1,52 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="60px"/>, chatrg here!</h1> 
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chatrg&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/chatrg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:70a5fd&height=200&section=header&text=chatRG&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=finance%20%C3%97%20tech&descAlignY=60&descSize=18" alt="chatRG" width="100%" />
 
-💬 Ask me about **finance & tech**
+<a href="https://github.com/chatRG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=finance+%C3%97+tech;python+%C2%B7+typescript+%C2%B7+java;trading+tools+%26+market+data;self-hosted%2C+self-reliant" alt="finance × tech" />
+</a>
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=chatrg&label=views&color=1f6feb&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/based%20in-India-0d1117?style=flat-square" alt="India" />
+</p>
+
+</div>
+
+I build small, sharp tools where money meets code — price trackers, market dashboards, screeners, and self-hosted software. Mostly Python and TypeScript, occasionally Java for old times' sake.
+
+> [!TIP]
+> Ask me about **finance & tech**.
+
+## 📊 By the numbers
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chatrg&theme=default&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chatrg&theme=default&show_icons=true&hide_border=false&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatrg&theme=default&show_icons=true&hide_border=false&layout=compact"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatrg&theme=tokyonight" width="100%" alt="GitHub profile summary" />
+
+<img src="https://streak-stats.demolab.com?user=chatrg&theme=tokyonight&hide_border=true" height="180" alt="Contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chatrg&theme=tokyonight" height="180" alt="Languages by repo" />
+
+</div>
+
+## 🧩 Selected work
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[gold-price-extension](https://github.com/chatRG/gold-price-extension)** | Compares gold jewellery prices on Myntra, Ajio and Flipkart against live 24K rates | `TypeScript` |
+| **[inmarket](https://github.com/chatRG/inmarket)** | Market dashboard — [live demo](https://chatrg.github.io/inmarket) | `SCSS` |
+| **[WallApp](https://github.com/chatRG/WallApp)** | Random wallpapers that fit your phone's personality · ★9 | `Java` |
+| **[NoteNow](https://github.com/chatRG/NoteNow)** | Material Design notes app for Android · ★5 | `Java` |
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=110&section=footer" width="100%" alt="" />
 </div>
