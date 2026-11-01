@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:70a5fd&height=200&section=header&text=chatRG&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=finance%20%C3%97%20tech&descAlignY=60&descSize=18" alt="chatRG" width="100%" />
 
 <a href="https://github.com/chatRG">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=finance+%C3%97+tech;python+%C2%B7+typescript+%C2%B7+java;trading+tools+%26+market+data;self-hosted%2C+self-reliant" alt="finance × tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=trading+tools+%26+market+data;python+%C2%B7+typescript+%C2%B7+java;self-hosted%2C+self-reliant" alt="trading tools & market data" />
 </a>
 
 <p>
@@ -48,5 +48,5 @@ I build small, sharp tools where money meets code — price trackers, market das
 | **[NoteNow](https://github.com/chatRG/NoteNow)** | Material Design notes app for Android · ★5 | `Java` |
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=110&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=90&section=footer" width="100%" alt="" />
 </div>
