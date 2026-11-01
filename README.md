@@ -46,7 +46,3 @@ I build small, sharp tools where money meets code — price trackers, market das
 | **[inmarket](https://github.com/chatRG/inmarket)** | Market dashboard — [live demo](https://chatrg.github.io/inmarket) | `SCSS` |
 | **[WallApp](https://github.com/chatRG/WallApp)** | Random wallpapers that fit your phone's personality · ★9 | `Java` |
 | **[NoteNow](https://github.com/chatRG/NoteNow)** | Material Design notes app for Android · ★5 | `Java` |
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=90&section=footer" width="100%" alt="" />
-</div>
