@@ -33,7 +33,7 @@ I build small, sharp tools where money meets code — price trackers, market das
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatrg&theme=tokyonight" width="100%" alt="GitHub profile summary" />
 
-<img src="https://streak-stats.demolab.com?user=chatrg&theme=tokyonight&hide_border=true" height="180" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=chatrg&theme=tokyonight&hide_border=true&card_width=460" height="180" alt="Contribution streak" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chatrg&theme=tokyonight" height="180" alt="Languages by repo" />
 
 </div>
